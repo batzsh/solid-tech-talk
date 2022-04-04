@@ -1,11 +1,7 @@
 import { User } from "../models/User";
+import { ICreateUserDTO, IUsersRepository } from "./IUsersRepository";
 
-interface ICreateUserDTO {
-  name: string;
-  email: string;
-}
-
-export class UsersRepository {
+export class UsersRepository implements IUsersRepository {
   private users: User[];
 
   constructor() {
