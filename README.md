@@ -1,5 +1,5 @@
 <h1 align="center">
-     📚 SOLID - Conta Simples
+     📚 SOLID - Tech Talk
 </h1>
 
 <h3 align="center">
@@ -7,17 +7,17 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/henbalmant/solid-conta-simples?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/henbalmant/solid-tech-talk?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/henbalmant/solid-conta-simples">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/henbalmant/solid-tech-talk">
 
-  <a href="https://github.com/henbalmant/solid-conta-simples/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henbalmant/solid-conta-simples">
+  <a href="https://github.com/henbalmant/solid-tech-talk/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henbalmant/solid-tech-talk">
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/henbalmant/solid-conta-simples/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/henbalmant/solid-conta-simples?style=social">
+   <a href="https://github.com/henbalmant/solid-tech-talk/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/henbalmant/solid-tech-talk?style=social">
   </a>
 
   <a href="https://batcave.dev.br">
@@ -51,13 +51,13 @@
 
 ## 💻 About
 
-📚 SOLID - Conta Simples is a repository that provides an environment to test, learn and develop SOLID principles implementation.
+📚 SOLID - Tech Talk is a repository that provides an environment to test, learn and develop SOLID principles implementation.
 
 Project developed due a Tech Talk for [Conta Simples](https://contasimples.com/).
 
-Use the [master](https://github.com/henbalmant/solid-conta-simples/tree/master) branch to make your own SOLID implementation.
+Use the [master](https://github.com/henbalmant/solid-tech-talk/tree/master) branch to make your own SOLID implementation.
 
-Tech Talk's implementation can be checked at [impl/solid-principles](https://github.com/henbalmant/solid-conta-simples/tree/impl/solid-principles) branch.
+Tech Talk's implementation can be checked at [impl/solid-principles](https://github.com/henbalmant/solid-tech-talk/tree/impl/solid-principles) branch.
 
 ---
 
@@ -89,10 +89,10 @@ I also recommend you to have [nvm](https://github.com/nvm-sh/nvm) installed and 
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:henbalmant/solid-conta-simples.git
+$ git clone git@github.com:henbalmant/solid-tech-talk.git
 
 # Access the project folder with your terminal/cmd
-$ cd solid-conta-simples
+$ cd solid-tech-talk
 
 # Set your node version to project node version from .nvmrc
 $ nvm use
@@ -108,7 +108,7 @@ $ yarn dev
 ```
 
 <p align="center">
-  <a href="https://github.com/henbalmant/solid-conta-simples/blob/master/Insomnia_API_SOLID_Conta_Simples.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://github.com/henbalmant/solid-tech-talk/blob/master/Insomnia_API_SOLID_Tech_Talk.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ---
@@ -117,7 +117,7 @@ $ yarn dev
 
 The following tools were used in the construction of the project:
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Backend** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Backend** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
 
 - **[Express](https://expressjs.com/)**
 - **[uuid](https://www.npmjs.com/package/uuid)**
@@ -125,9 +125,9 @@ The following tools were used in the construction of the project:
 - **[ESLint](https://eslint.org/)**
 - **[Prettier](https://prettier.io/)**
 
-> See [package.json](https://github.com/henbalmant/solid-conta-simples/blob/master/package.json)
+> See [package.json](https://github.com/henbalmant/solid-tech-talk/blob/master/package.json)
 
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilities**
+#### **Utilities**
 
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 - Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
